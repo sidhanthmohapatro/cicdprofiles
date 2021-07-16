@@ -37,14 +37,14 @@
 								<applicationName>dev-${project.artifactId}</applicationName>
 								<environment>dev</environment>
 								<region>us-east-1</region>
-								<workers>1</workers>
+								<workers>1</workers>3818822ec09b462e99a639f0f58a5273
 								<workerType>MICRO</workerType>
 								<objectStoreV2>true</objectStoreV2>
 								<properties>
 									<api.id>17068011</api.id>
 									<env>dev</env>
-									<anypoint.platform.client_id>${anypoint.platform.client_id}</anypoint.platform.client_id>
-									<anypoint.platform.client_secret>${anypoint.platform.client_secret}</anypoint.platform.client_secret>
+									<anypoint.platform.client_id>3818822ec09b462e99a639f0f58a5273</anypoint.platform.client_id>
+									<anypoint.platform.client_secret>4b1Cb7e9D23F46A7b2146d90BA26aECf</anypoint.platform.client_secret>
 								</properties>
 							</cloudHubDeployment>
 						</configuration>
@@ -78,8 +78,8 @@
 								<properties>
 									<api.id>17068013</api.id>
 									<env>test</env>
-									<anypoint.platform.client_id>${anypoint.platform.client_id}</anypoint.platform.client_id>
-									<anypoint.platform.client_secret>${anypoint.platform.client_secret}</anypoint.platform.client_secret>
+									<anypoint.platform.client_id>02f51336d1a643bfb4977fe95d73c829</anypoint.platform.client_id>
+									<anypoint.platform.client_secret>a981F9F8cD0B493589b4f7Fd6B4FBF2b</anypoint.platform.client_secret>
 								</properties>
 							</cloudHubDeployment>
 						</configuration>
@@ -104,8 +104,8 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.3.0</muleVersion>
-						<username>${username}</username>
-						<password>${password}</password>
+						<username>Hanuman_12345</username>
+						<password>Smpatro@123</password>
 						<objectStoreV2>true</objectStoreV2>
 						<properties>
 							<http.port>8081</http.port>
